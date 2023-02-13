@@ -1,0 +1,85 @@
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Про Рецепты</string>
+
+    <!--bottom navigation title-->
+    <string name="title_nav_home">Главная</string>
+    <string name="title_nav_recent">Рецепты</string>
+    <string name="title_nav_category">Категории</string>
+    <string name="title_nav_favorite">Избранное</string>
+
+    <!--home menu-->
+    <string name="home_title_category">Категории</string>
+    <string name="home_title_recent">Рецепты</string>
+    <string name="home_title_videos">Видео</string>
+
+    <!--settings-->
+    <string name="title_setting_theme">Темная тема</string>
+    <string name="sub_title_setting_theme">Экономия заряда батареи</string>
+    <string name="title_setting_list">Экран категорий"</string>
+    <string name="title_setting_recipes">Экран репептов</string>
+    <string name="single_choice_list_small">Спискок (компактный)</string>
+    <string name="single_choice_list_big">Спискок (большой)</string>
+    <string name="single_choice_grid_2">Сетка (2 column)</string>
+    <string name="single_choice_grid_3">Сетка (3 column)</string>
+    <string name="title_setting_privacy">Политика конфиденциальности</string>
+    <string name="sub_title_setting_privacy">Условия приложения и Политики</string>
+    <string name="title_setting_rate">Оцените нас</string>
+    <string name="sub_title_setting_rate">Оставьте отзыв в Магазине</string>
+    <string name="title_setting_more">Больше приложений</string>
+    <string name="sub_title_setting_more">Другие приложения от разработчика</string>
+    <string name="title_setting_about">О приложении</string>
+    <string name="sub_title_setting_about">App Info, Build Version, Copyright</string>
+    <string name="sub_about_app_version">Версия</string>
+    <string name="sub_about_app_copyright">Copyright &#169; 2023 Limma Developer \n All rights reserved</string>
+
+    <!--network & error message-->
+    <string name="whops">Опс!</string>
+    <string name="failed_title_text">Опс!</string>
+    <string name="failed_text">Что-то не так с вашим интернетом или сервер в данный момент не работает, повторите попытку позже.</string>
+    <string name="no_internet_text">Что-то не так с вашим интернетом или сервер сейчас не работает, повторите попытку позже.</string>
+    <string name="no_category_found">в настоящее время нет доступных категорий</string>
+    <string name="no_post_found">Рецепты не найдены! если вы хотите продолжить поиск, попробуйте ввести другое ключевое слово!</string>
+    <string name="msg_no_item">похоже, в настоящее время нет доступного контента.</string>
+    <string name="msg_search_input">Пожалуйста, введите ключевое слово</string>
+    <string name="error_player">Произошла ошибка при инициализации YouTubePlayer (%1$s)</string>
+    <string name="msg_cancel_update">Обновление отменено</string>
+    <string name="msg_success_update">Обновление успешно!</string>
+    <string name="msg_failed_update">Обновление не удалось!</string>
+
+    <!--favorite-->
+    <string name="favorite_added">Добавлено в избранное</string>
+    <string name="favorite_removed">Удалено из избранного</string>
+    <string name="no_favorite_found">Ваш список избранного пуст, потому что вы не добавляете никаких рецептов в меню избранного.</string>
+
+    <!--filter-->
+    <string name="filter">Фильтр</string>
+    <string name="dialog_title_filter">Фильтр рецептов :</string>
+    <string name="filter_show_all">Все рецепты</string>
+    <string name="filter_show_recipes">Рецепты Посты</string>
+    <string name="filter_show_videos">Рецепты Видео</string>
+
+    <!--font size name -->
+    <string name="title_dialog_font_size">Выберите размер шрифта</string>
+    <string name="font_size_xsmall">Очень маленький</string>
+    <string name="font_size_small">Небольшой</string>
+    <string name="font_size_medium">Середина</string>
+    <string name="font_size_large">Большой</string>
+    <string name="font_size_xlarge">Очень большой</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_ok">OK</string>
+
+    <!--others-->
+    <string name="share_text">Я хотел бы поделиться этим с вами. Вы можете скачать это приложение из Плей Маркета</string>
+    <string name="recipes_count_text">Рецепты</string>
+    <string name="views_count">Просмотры</string>
+    <string name="btn_retry">Повторить попытку</string>
+    <string name="search">Поиск</string>
+    <string name="search_text">Поиск&#8230;</string>
+    <string name="txt_suggested">Вам также может понравиться</string>
+    <string name="title_menu_browser">Открыть в браузере</string>
+    <string name="press_again_to_exit">Нажмите еще раз, чтобы выйти из приложения</string>
+
+</resources>

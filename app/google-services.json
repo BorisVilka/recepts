@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53154743144",
+    "project_id": "recept-9d97a",
+    "storage_bucket": "recept-9d97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53154743144:android:c13d66581884bf9c838cdd",
+        "android_client_info": {
+          "package_name": "com.recept.limma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53154743144-eiveqjpuipbnjfoprc3qd9iv77jn6stk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBfFcBYjUBqS57c8l6cQ2lOGOKnU0Y4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53154743144-eiveqjpuipbnjfoprc3qd9iv77jn6stk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
